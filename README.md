@@ -1,2 +1,0 @@
-# Practice-Code
-Sample codes 
